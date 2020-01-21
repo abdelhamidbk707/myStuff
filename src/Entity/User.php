@@ -3,8 +3,7 @@
 
 namespace App\Entity;
 
-
-class User
+class User extends BaseUser
 {
 
 }
